@@ -8,7 +8,7 @@ Other git accounts:
 - GitHub: https://github.com/hjnp
 - GitHub: https://github.com/blackdebian
 
-Some pokemons here 😄:
+And also some pokemons here 😄:
 
-- Holopin: "https://www.holopin.io/@helderjnpinto"
+- Holopin: https://www.holopin.io/@helderjnpinto
 - Github POAP: https://tinyurl.com/GITHUBPOAP
