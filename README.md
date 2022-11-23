@@ -1,16 +1,14 @@
 ### Hi there 👋
+And welcome on my Github Profile.
 
-<!--
-**helderjnpinto/helderjnpinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Maker of electronics hobbiest and enthusiast, software engineer and other awesome 🚀 things!
 
-Here are some ideas to get you started:
+Other git accounts:
+- Gitlab: https://gitlab.com/hjnp
+- GitHub: https://github.com/hjnp
+- GitHub: https://github.com/blackdebian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some pokemons here 😄:
+
+- Holopin: "https://www.holopin.io/@helderjnpinto"
+- Github POAP: https://tinyurl.com/GITHUBPOAP
