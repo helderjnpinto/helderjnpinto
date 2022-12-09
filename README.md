@@ -1,7 +1,7 @@
 ### Hi there 👋
 And welcome on my Github Profile.
 
-I'm a Maker of electronics hobbiest and enthusiast, software engineer and other awesome 🚀 things!
+I'm a Maker of electronics hobbiest and enthusiast, software engineer and other awesome ㊙️ things 🚀 !
 
 Other git accounts:
 - Gitlab: https://gitlab.com/hjnp
