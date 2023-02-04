@@ -13,6 +13,8 @@ And also some pokemons here 😄:
 - Holopin: https://www.holopin.io/@helderjnpinto
 - Github POAP: https://tinyurl.com/GITHUBPOAP
 
+[![An image of @helderjnpinto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/helderjnpinto)](https://holopin.io/@helderjnpinto)
+
 
 <h2 align="left">Languages</h2>
 <p align="left"> 
