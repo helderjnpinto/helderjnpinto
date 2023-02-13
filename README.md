@@ -19,7 +19,7 @@ And also some pokemons here 😄:
 <h2 align="left">Languages</h2>
 <p align="left"> 
 
-  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="tscript" width="55" height="55" />
 <img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" alt="solidity" width="55" height="55"/>
@@ -31,6 +31,7 @@ And also some pokemons here 😄:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/elm/elm-original.svg" alt="elm" width="40" height="40"/>
+
 <p>...</p>
 </p>
 
