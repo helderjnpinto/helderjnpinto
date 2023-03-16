@@ -76,4 +76,9 @@ And also some pokemons here 😄:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="ubuntu" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="55" height="55"/>
 </p>
-  
+ 
+<h2>Stats:</h2>
+<p align="left">
+ [![ħþ GitHub stats](https://github-readme-stats.vercel.app/api?username=helderjnpinto&show_icons=true&title_color=30e3ca&icon_color=11999e&text_color=40514e&bg_color=e4f9f5)
+</p>
+
