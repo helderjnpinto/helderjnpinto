@@ -78,9 +78,17 @@ And also some pokemons here 😄:
  
 <h2>Stats:</h2>
 <p align="left">
+### GitHub Stats
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Tsvetoslav88&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
 
+### GitHub Languages
+<div>
+ <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderjnpinto&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
+</div>
 
 </p>
+
+
 ![helderjnpinto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=helderjnpinto&theme=dracula&hide_border=false)
 ![helderjnpinto's Stats](https://github-readme-stats.vercel.app/api?username=helderjnpinto&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![helderjnpinto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helderjnpinto&theme=dracula&show_icons=true&hide_border=false&layout=compact)
