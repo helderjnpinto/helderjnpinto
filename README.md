@@ -80,9 +80,15 @@ And also some pokemons here 😄:
 <p align="left">
 
 <div>
-  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=helderjnpinto&theme=dracula&hide_border=false" />
- <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=helderjnpinto&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
+ <div>
+ <img style="height: auto; width: 40%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=helderjnpinto&theme=dracula&hide_border=false" />
+ </div>
+ <div>
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=helderjnpinto&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
+ </div>
+ <div>
  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderjnpinto&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
+ </div> 
 </div>
 
 </p>
