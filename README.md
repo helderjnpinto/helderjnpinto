@@ -57,15 +57,15 @@ And also some pokemons here 😄:
 <img src="https://raw.githubusercontent.com/NomicFoundation/hardhat/main/docs/src/assets/hardhat-logo.svg" alt="hardhat" width="150" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/c2568ca449a0dd817656010512e345341036abb8f462ad74c5d7aea675094003/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f72656163742d313137353130392e706e67" alt="react" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/9cf413f1f5525a3b36c6d8bdf0e80b4ab8a157505e9f39eb1421b04096db999c/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f6e6f64656a732d322d3232363033352e706e67" alt="nodejs" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <p>...</p>
 </p>  
 
 <h2 align="left">Favorite IDE's</h2>
 <p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="55" height="55"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="55" height="55"/>
 </p>
  
 <h2 align="left">Platforms</h2>
