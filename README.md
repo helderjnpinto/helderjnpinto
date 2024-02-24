@@ -78,6 +78,6 @@ And also some pokemons here 😄:
  
 <h2>Stats:</h2>
 <p align="left">
- [![ħþ GitHub stats](https://github-readme-stats.vercel.app/api?username=helderjnpinto&show_icons=true&title_color=30e3ca&icon_color=11999e&text_color=40514e&bg_color=e4f9f5)
+ [ħþ GitHub stats](https://github-readme-stats.vercel.app/api?username=helderjnpinto&show_icons=true&title_color=30e3ca&icon_color=11999e&text_color=40514e&bg_color=e4f9f5)
 </p>
 
