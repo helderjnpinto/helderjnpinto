@@ -59,8 +59,22 @@ And also some pokemons here 😄:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/clickhouse/clickhouse-original.svg" alt="clickhouse" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" alt="portainer" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
 <p>...</p>
 </p>  
+
+<h2 align="left">Blockchains & web3</h2>
+<p align="left">
+All EVM based chains, polygon, ethereum, base and other networks polymesh, stellar, algorand 
+<img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" alt="polygon" width="40" height="40"/>
+</p>
 
 <h2 align="left">Favorite IDE's</h2>
 <p align="left"> 
