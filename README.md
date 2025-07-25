@@ -54,7 +54,7 @@ And also some pokemons here 😄:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_metamask.png" alt="metamask" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_truffle.png" alt="truffle" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/NomicFoundation/hardhat/main/docs/src/assets/hardhat-logo.svg" alt="hardhat" width="150" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" alt="hardhat" width="150" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
