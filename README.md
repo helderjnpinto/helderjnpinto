@@ -72,11 +72,10 @@ And also some pokemons here 😄:
 
 <h2 align="left">Blockchains & web3</h2>
 <p align="left">
-All EVM based chains, polygon, ethereum, base and other networks polymesh, stellar, algorand 
 <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" alt="polygon" width="40" height="40"/>
+All EVM based chains, polygon, ethereum, base and other networks polymesh, stellar, algorand 
 </p>
 
-<h2 align="left">Favorite IDE's</h2>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="55" height="55"/>
