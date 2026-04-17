@@ -13,6 +13,7 @@ But also very radioactive ☢️!
 - GitHub POAP: https://tinyurl.com/GITHUBPOAP
 
 <h2 align="left">Languages</h2>
+
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
@@ -27,10 +28,11 @@ But also very radioactive ☢️!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/elm/elm-original.svg" alt="elm" width="40" height="40"/>
-  <p>...</p>
+  <br>...
 </p>
 
 <h2 align="left">Tech</h2>
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg" alt="phoenix" width="40" height="40"/>
@@ -63,7 +65,7 @@ But also very radioactive ☢️!
   <img src="https://github.com/devicons/devicon/blob/master/icons/clickhouse/clickhouse-original.svg" alt="clickhouse" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" alt="portainer" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
-  <p>...</p>
+  <br>...
 </p>
 
 <h2 align="left">Blockchains & Web3</h2>
@@ -87,8 +89,9 @@ But also very radioactive ☢️!
 </p>
 
 <h2>Stats</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img style="height: auto; width: 32%;" src="https://github-readme-streak-stats.herokuapp.com/?user=helderjnpinto&theme=dracula&hide_border=false" alt="GitHub Streak" />
-  <img style="height: auto; width: 32%;" src="https://github-readme-stats.vercel.app/api?username=helderjnpinto&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img style="height: auto; width: 32%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderjnpinto&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helderjnpinto&theme=dracula&hide_border=false" alt="Streak" style="width: 32%; margin: 5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=helderjnpinto&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="Stats" style="width: 32%; margin: 5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderjnpinto&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top Langs" style="width: 32%; margin: 5px;"/>
 </div>
