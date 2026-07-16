@@ -91,7 +91,20 @@ But also very radioactive ☢️!
 <h2>Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helderjnpinto&theme=dracula&hide_border=false" alt="Streak" style="width: 32%; margin: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=helderjnpinto&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="Stats" style="width: 32%; margin: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderjnpinto&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="Top Langs" style="width: 32%; margin: 5px;"/>
+  <img
+    width="32%"
+    src="https://streak-stats.demolab.com?user=helderjnpinto&theme=dracula&hide_border=false"
+    alt="GitHub contribution streak"
+  />
+  <img
+    width="32%"
+    src="https://github-stats-extended.vercel.app/api?username=helderjnpinto&theme=dracula&show_icons=true&hide_border=false"
+    alt="GitHub statistics"
+  />
+  <img
+    width="32%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=helderjnpinto&theme=dracula&hide_border=false&layout=compact"
+    alt="Most used languages"
+  />
 </div>
+
