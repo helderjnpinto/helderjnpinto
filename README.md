@@ -88,7 +88,7 @@ But also very radioactive ☢️!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/>
 </p>
 
-<h2>Stats</h2>
+<h2>Stats (Public only) </h2>
 
 <div align="center">
   <img
